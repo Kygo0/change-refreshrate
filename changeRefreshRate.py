@@ -56,7 +56,7 @@ def change_refresh_rate(refresh_rate):
         print(f"Changed to {refresh_rate} Hz.")
 
 def main():
-    change_refresh_rate(144)
+    change_refresh_rate(144) #Change to desired value.
 
 if __name__ == "__main__":
        main()
